@@ -95,7 +95,7 @@ h3 {
 #presentation {
   background-color: #f5f5dc;
   padding: 10px 0px 100px 0;
-  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 #texteIntro {
